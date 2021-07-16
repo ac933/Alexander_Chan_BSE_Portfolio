@@ -1,4 +1,3 @@
-![image (1)]
 Ball Tracking Robot
 Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot detects, tracks, and follows a ball. It uses blah.
 
