@@ -1,4 +1,4 @@
-![image (1)](https://user-images.githubusercontent.com/86970028/125972049-0e3cac29-f2a7-4028-8c6a-8889234f6610.png)
+![image (1)]
 Ball Tracking Robot
 Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot detects, tracks, and follows a ball. It uses blah.
 
@@ -21,4 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 For my first milestone, I assembled the chassis of the car, wired the ultrasonic sensor and the 4 motors, and wrote a baseline program to control the sensors and the motors. Connecting the ultrasonic sensor to the Raspberry Pi was a little challenging because a direct wire from the ultrasonic sensor to the Rasberry Pi sends 5V back to the Raspberry Pi, but the Raspberry Pi only takes 3.3V. The ultrasonic sensor emits ultrasonic waves that bounce off objects. My code calculates the distance from objects by using the amount of time it takes for the waves to bounce back to the sensor and the speed of those waves. To control the motors, I used an L298N motor driver that allows me to control the exact speed and direction of the motor by modulating pulses of electricity. Shorter pulses allow less power to reach the motors and longer pulses allow more power to reach the motor.
 
-[![First Milestone](https://user-images.githubusercontent.com/86970028/125972167-19ce6161-9e85-4338-b9ff-7784135ec0ec.png)](https://www.youtube.com/watch?v=zY5fDYwYBLY&t=1s){:target="_blank" rel="noopener"}
+[![First Milestone](https://user-images.githubusercontent.com/86970028/125972167-19ce6161-9e85-4338-b9ff-7784135ec0ec.png)](https://www.youtube.com/watch?v=zY5fDYwYBLY&t=1s)
