@@ -1,4 +1,5 @@
-Ball Tracking Robot
+﻿# Phone-Controlled Robot Arm
+My project is a Robot Arm that can move in all directions and grab objects with it's claw. It uses the ESP32 to connect to a phone through bluetooth so the phone can control the Robot Arm. 
 Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot detects, tracks, and follows a ball. It uses blah.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
