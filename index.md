@@ -17,7 +17,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopeneror"}
 
 # Second Milestone
-My second milestone focused on 
+My second milestone focused on proccessing the video frames to isolate the ball. Because I use a red ball, I filtered the video to display only red colors. Then, I removed distortions from it. I also optimized camera settings to improve accuracy.
 
 [![Third Milestone](https://user-images.githubusercontent.com/86970028/126401793-34afdde5-babf-4a68-b608-46b652aa0ae0.png)](https://www.youtube.com/watch?v=SNreoi3gCcM "Second Milestone")
 # First Milestone
