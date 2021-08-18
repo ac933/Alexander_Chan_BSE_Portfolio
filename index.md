@@ -5,13 +5,14 @@ Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot dete
 |:--:|:--:|:--:|:--:|
 | Alexander Chan | Regis High School | Electrical/Mechanical Engineering | Incoming Senior
 
-[![Headstone Image]!(https://user-images.githubusercontent.com/86970028/129963346-977ceb3f-8fe1-4264-bfc8-6393480dba99.jpg)]
+![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
+
 
   
   
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ml36HLql7Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-  
+ 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
