@@ -18,6 +18,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone]![image (4)](https://user-images.githubusercontent.com/86970028/129964660-d97390b1-8ef5-4dc4-901e-b0c5c4b7078a.png)
 ](https://www.youtube.com/watch?v=_SUSWzWiC0I "Final Milestone"){:target="_blank" rel="noopeneror"}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Second Milestone
 My second milestone focused on proccessing the video frames to isolate the ball. Because I use a red ball, I filtered the video to display only red colors. Then, I removed distortions from it. I also optimized camera settings to improve accuracy.
 
