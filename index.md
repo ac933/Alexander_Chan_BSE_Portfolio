@@ -3,7 +3,7 @@ Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot dete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Alexander Chan | Regis High School | Electrical/Mechanical Engineering | Incoming Senior
+| Alexander Chan | Regis High School | Mechanical Engineering/Computer Science Engineering | Incoming Senior
 
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
 
