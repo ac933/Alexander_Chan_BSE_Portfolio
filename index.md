@@ -5,7 +5,8 @@ Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot dete
 |:--:|:--:|:--:|:--:|
 | Alexander Chan | Regis High School | Electrical/Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]![IMG_2244](https://user-images.githubusercontent.com/86970028/129963346-977ceb3f-8fe1-4264-bfc8-6393480dba99.jpg)
+
   
   
   
