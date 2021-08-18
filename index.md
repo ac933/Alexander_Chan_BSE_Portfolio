@@ -13,7 +13,6 @@ Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot dete
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ml36HLql7Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
  
-
 # Final Milestone
 
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -25,6 +24,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
+
 My second milestone focused on proccessing the video frames to isolate the ball. Because I use a red ball, I filtered the video to display only red colors. Then, I removed distortions from it. I also optimized camera settings to improve accuracy.
 
 [![Third Milestone](https://user-images.githubusercontent.com/86970028/126401793-34afdde5-babf-4a68-b608-46b652aa0ae0.png)](https://www.youtube.com/watch?v=SNreoi3gCcM "Second Milestone"){:target="_blank" rel="noopeneror"}
