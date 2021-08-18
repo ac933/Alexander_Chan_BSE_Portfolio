@@ -17,7 +17,7 @@ Using a Raspberry Pi, an ultrasonic sensor, a camera, and motors, the robot dete
 
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone]![image (5)](https://user-images.githubusercontent.com/86970028/129972715-d101c1f2-88c3-43bd-8985-7b826fdf9eee.png)
+[![Final Milestone][image (5)](https://user-images.githubusercontent.com/86970028/129972715-d101c1f2-88c3-43bd-8985-7b826fdf9eee.png)
 
 ](https://www.youtube.com/watch?v=_SUSWzWiC0I "Final Milestone"){:target="_blank" rel="noopeneror"}
 
