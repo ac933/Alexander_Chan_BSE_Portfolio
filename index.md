@@ -24,8 +24,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My second milestone focused on proccessing the video frames to isolate the ball. Because I use a red ball, I filtered the video to display only red colors. Then, I removed distortions from it. I also optimized camera settings to improve accuracy.
 
 [![Third Milestone](https://user-images.githubusercontent.com/86970028/126401793-34afdde5-babf-4a68-b608-46b652aa0ae0.png)](https://www.youtube.com/watch?v=SNreoi3gCcM "Second Milestone"){:target="_blank" rel="noopeneror"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNreoi3gCcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # First Milestone
   
 For my first milestone, I assembled the chassis of the car, wired the ultrasonic sensor and the 4 motors, and wrote a baseline program to control the sensors and the motors. Connecting the ultrasonic sensor to the Raspberry Pi was a little challenging because a direct wire from the ultrasonic sensor to the Rasberry Pi sends 5V back to the Raspberry Pi, but the Raspberry Pi only takes 3.3V. The ultrasonic sensor emits ultrasonic waves that bounce off objects. My code calculates the distance from objects by using the amount of time it takes for the waves to bounce back to the sensor and the speed of those waves. To control the motors, I used an L298N motor driver that allows me to control the exact speed and direction of the motor by modulating pulses of electricity. Shorter pulses allow less power to reach the motors and longer pulses allow more power to reach the motor.
 
 [![First Milestone](https://user-images.githubusercontent.com/86970028/126401936-94c9b1cf-0935-4364-8f62-71c1e7594c53.png)](https://www.youtube.com/watch?v=zY5fDYwYBLY&t=1s "Second Milestone"){:target="_blank" rel="noopeneror"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zY5fDYwYBLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
