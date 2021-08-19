@@ -18,9 +18,9 @@ After completing the image processing needed to find red balls in the camera's v
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                                                                                                                                                                                                                                                                  
 
-# Final Presentation
+# Presentation
 
-Here's a video of the live presentation I gave.
+Here's a video of the live presentation I gave right before completing my final milestone.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ml36HLql7Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
