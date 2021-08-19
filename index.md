@@ -18,7 +18,9 @@ Having completing the image processing needed to find red balls in the camera's 
 Although this was my final milestone with Bluestamp that completed my robot's ball tracking capabilities, I will continue with the project in the future. I hope to add a servo motor to allow the camera to tilt upwards and track balls as they are picked up and thrown. In addition to other modification ideas, I will be adding solar panels so that the robot's batteries do not need to be recharged as often. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                                                                                                                                                                                                                                                                 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                                                                       
+<br>
+
 # Presentation
 
 Here's a video of the live presentation I gave right before completing my final milestone.
