@@ -12,7 +12,9 @@ I designed, programmed and built a robot that will identify, locate and follow a
  
 # Final Milestone
 
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone implemented the circle detected algorithm that I programmed called Hough Circle Transform. To detect circles, object edges, or places with a substantial color change, are first detected. For each pixel considered to be an edge, a circles of a set radius range are drawn. If there is a circular object in the camera's view, the circles that are drawn will all intersect at the center of the circular object. In this way, the ball can be detected. Different colored balls can be detected using the color filter I had programmed. 
+
+After completing the image processing needed to find red balls in the camera's view, I then compiled the seperate coding projects for the ultrasonic sensor, motor, and camera image processing into one project. I also made several modifications to the robot to prepare it to move about reliably. I constructed stronger mounts for the camera and ultrasonic sensor, added a portable charger to power the rasberry pi without an outlet, and mounted my rasberry pi on top of my broadboard to save space. I included a peice of cardboard between the rasberry pi and the breadboard to ensure neither the electric circuits on my breadboard nor the rasberry pi could interfere with each other.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
