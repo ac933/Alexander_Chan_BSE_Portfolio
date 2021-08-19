@@ -7,7 +7,7 @@ I designed, programmed and built a robot that will identify, locate and follow a
 
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
      
-
+<br>
   
  
 # Final Milestone
@@ -16,13 +16,14 @@ My final milestone implemented the circle detected algorithm that I programmed c
 
 After completing the image processing needed to find red balls in the camera's view, I then compiled the seperate coding projects for the ultrasonic sensor, motor, and camera image processing into one project. I also made several modifications to the robot to prepare it to move about reliably. I constructed stronger mounts for the camera and ultrasonic sensor, added a portable charger to power the rasberry pi without an outlet, and mounted my rasberry pi on top of my broadboard to save space. I included a peice of cardboard between the rasberry pi and the breadboard to ensure neither the electric circuits on my breadboard nor the rasberry pi could interfere with each other.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                                                                                                                                                                                                                                                                  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SUSWzWiC0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                                                                       <br>                                                                                                                                                                                           
 
 # Presentation
 
 Here's a video of the live presentation I gave right before completing my final milestone.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ml36HLql7Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br>
 
 # Second Milestone
 
