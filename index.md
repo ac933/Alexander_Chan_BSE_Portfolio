@@ -1,5 +1,5 @@
 ﻿# Ball Tracking Robot
-I designed, programmed and built a robot that will follow a ball as it rolls on the ground. It uses computer vision techniques to identify the ball. 
+I designed, programmed, and built a robot that will follow a ball as it rolls on the ground. It uses computer vision techniques to identify the ball. 
 
 | **My name:** | **My School:** | **My Areas of Interest:** | **Grade:** |
 |:--:|:--:|:--:|:--:|
@@ -12,9 +12,9 @@ I designed, programmed and built a robot that will follow a ball as it rolls on 
 
 Three weeks after the start of my project, I reached my final milestone. The robot is now able to detect and follow the ball as it rolls on the floor.
 
-Since my second milestone, I have implemented a circle detecting algorithm that I programmed called Hough Circle Transform.  The algorithm first detects object edges, or places with a substantial color change, are first detected. For each pixel considered to be an edge, a circles of a set radius range are drawn. If there is a circular object in the camera's view, the circles that are drawn will all intersect at the center of the circular object. In this way, the ball can be detected. I've also programmed the robot to travel towards the ball when it is detected.
+Since my second milestone, I have implemented a circle detecting algorithm that I programmed called Hough Circle Transform.  The algorithm first detects object edges, or places with a substantial color change. For each pixel considered to be an edge, circles of a set radius range are drawn. If there is a circular object in the camera's view, the circles that are drawn will all intersect at the center of the circular object. In this way, the ball can be detected. I've also programmed the robot to travel towards the ball when it is detected.
 
-I also made several modifications to the robot to prepare it to move about reliably. I constructed stronger mounts for the camera and ultrasonic sensor, added a portable charger to power the Raspberry Pi without an outlet, and mounted my Raspberry Pi on top of my broadboard to save space. I included a peice of cardboard between the Raspberry Pi and the breadboard to ensure neither the electric circuits on my breadboard nor the Raspberry Pi could interfere with each other.
+I then made several modifications to the robot to prepare it to move about reliably. I constructed stronger mounts for the camera and ultrasonic sensor, added a portable charger to power the Raspberry Pi without an outlet, and mounted my Raspberry Pi on top of my broadboard to save space. I included a peice of cardboard between the Raspberry Pi and the breadboard to ensure neither the electric circuits on my breadboard nor the Raspberry Pi could interfere with each other.
 
 Although this was my final milestone with Bluestamp that completed my robot's ball tracking capabilities, I will continue with the project in the future. I hope to add a servo motor to allow the camera to tilt upwards and track balls as they are picked up and thrown. In addition to other modification ideas, I will be adding solar panels so that the robot's batteries do not need to be recharged as often. 
 
@@ -31,7 +31,7 @@ Here's a video of the live presentation I gave right before completing my final 
 
 # Second Milestone
 
-My second milestone focused on proccessing the video frames to isolate the ball. Each pixel in the frame is represented as a combination of 3 numbers, each of them values for red, green, and blue(RGB). Combinations of reds, greens and blues will make up any possible color. To isolate the red ball that I use, I wanted to first isolate the red colors in each frame.
+My second milestone focused on proccessing the video frames to isolate the ball. Every pixel in the frame is represented as a combination of 3 numbers, each of them values for red, green, and blue(RGB). Combinations of reds, greens and blues will make up any possible color. To isolate the red ball that I use, I wanted to first isolate the red colors in each frame.
 
 I converted the RGB system to a similar but different system called HSV, which stands for hue, saturation, and value. Just like with RGB, HSV will make up any possible color.  I used HSV because it allowed me greater freedom to optimize the range of colors that I wanted to isolate. Additionally, if I wanted to use a different ball and isolate a different color, I would only have to adjust the hue value, whereas if I had used RGB I would have to adjust all there values.
 
