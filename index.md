@@ -1,12 +1,12 @@
 ﻿# Ball Tracking Robot 
-I designed, programmed and built a robot that will identify, locate and follow a ball. My project uses a rasberry pi, a small computer, to process images from the camera in order to detect and locate balls. The robot has an ultrasonic sensor that measures distances to ensure the robot does not hit the ball or any other obstacles that might be in its way. 
+I designed, programmed and built a robot that will identify, locate and follow a ball. My project uses a rasberry pi to process images from the camera in order to detect and locate balls. The robot has an ultrasonic sensor that measures distances to ensure the robot does not hit the ball or any other obstacles that might be in its way. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Alexander Chan | Regis High School | Mechanical Engineering/Computer Science Engineering | Incoming Senior
+| Alexander Chan | Regis High School | Mechanical Engineering/Computer Science Engineering | Rising Senior
 
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
-
+     
 
   
  
@@ -19,12 +19,14 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Final Presentation
 
 Here's a video of the live presentation I gave.
-  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ml36HLql7Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 # Second Milestone
 
-My second milestone focused on proccessing the video frames to isolate the ball. Because I use a red ball, I filtered the video to display only red colors. Then, I removed distortions from it. I also optimized camera settings to improve accuracy.
+My second milestone focused on proccessing the video frames to isolate the ball. I first filtered each frame from the camera for red colors because I use a red ball. Each pixel in the frame is represented as a combination of 3 numbers, each of them values for red, green, and blue(RGB). Combinations of reds, greens and blues will make up any possible color. I converted the RGB system to a similar but different system called HSV, which stands for hue, saturation, and value. Just like with RGB, HSV will make up any possible color. I then specified a range of HSV colors to be allowed through a filter. Any other colors would be filtered out and appear as black. I used HSV because it allowed me greater freedom to optimize the range of colors for the ball that I use. Additionally, if I wanted to switch my ball to a different color, all I would have to do is adjust teh hue value to filter for a different color, whereas if I had used RGB I would have to optimize and adjust all theree values. 
+  
+After filtering each video frame for red colors, I noticed that there was a lot of noise, or distortions that looked like static in each camera frame. tolve this problem, I used an image processing technique called erosion. By eliminating some of the area around the edges of objects, the small dots that flickered on the screen were completedly eroded away, while larger objects like the ball only appeared slightly smaller. I then dilated each frame to return objects to their normal size, leaving the video feed without any distortions. I also set and optimized camera settings for saturation, contrast, and brightness to accentuate colors in the video feed and help the computer filter out the best range of colors. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNreoi3gCcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
