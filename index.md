@@ -1,8 +1,8 @@
 ﻿# Ball Tracking Robot 
 I designed, programmed and built a robot that will identify, locate and follow a ball. My project uses a rasberry pi to process images from the camera in order to detect and locate balls. The robot has an ultrasonic sensor that measures distances to ensure the robot does not hit the ball or any other obstacles that might be in its way. 
 
-| | **School** | **Area of Interest** | **Grade** |
-||:--:|:--:|:--:|
+| **Name** | **School** | **My Areas of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
 | Alexander Chan | Regis High School | Mechanical Engineering/Computer Science Engineering | Rising Senior
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
      
