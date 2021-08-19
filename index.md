@@ -10,9 +10,9 @@ I designed, programmed and built a robot that will follow a ball as it rolls on 
 
 # Final Milestone
 
-Three weeks after the start of my project, I reached my final milestone. Since my second milestone, I have implemented a circle detecting algorithm that I programmed called Hough Circle Transform.  
+Three weeks after the start of my project, I reached my final milestone. The robot is now able to detect and follow the ball as it rolls on the floor
 
-The algorithm first detects object edges, or places with a substantial color change, are first detected. For each pixel considered to be an edge, a circles of a set radius range are drawn. If there is a circular object in the camera's view, the circles that are drawn will all intersect at the center of the circular object. In this way, the ball can be detected. I've also programmed the robot to travel towards the ball when it is detected.
+Since my second milestone, I have implemented a circle detecting algorithm that I programmed called Hough Circle Transform.  The algorithm first detects object edges, or places with a substantial color change, are first detected. For each pixel considered to be an edge, a circles of a set radius range are drawn. If there is a circular object in the camera's view, the circles that are drawn will all intersect at the center of the circular object. In this way, the ball can be detected. I've also programmed the robot to travel towards the ball when it is detected.
 
 I also made several modifications to the robot to prepare it to move about reliably. I constructed stronger mounts for the camera and ultrasonic sensor, added a portable charger to power the Raspberry Pi without an outlet, and mounted my Raspberry Pi on top of my broadboard to save space. I included a peice of cardboard between the Raspberry Pi and the breadboard to ensure neither the electric circuits on my breadboard nor the Raspberry Pi could interfere with each other.
 
