@@ -1,9 +1,9 @@
 ﻿# Ball Tracking Robot
 I designed, programmed and built a robot that will follow a ball as it rolls on the ground. It uses computer vision techniques to identify the ball. 
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **My name:** | **My School:** | **My Areas of Interest:** | **School Grade:** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Alexander Chan | Regis High School | Mechanical Engineering/Computer Science Engineering | Rising Senior
 
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
      
