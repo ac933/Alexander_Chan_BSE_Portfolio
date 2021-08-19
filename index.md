@@ -1,9 +1,10 @@
-﻿# Ball Tracking Robot 
-I designed, programmed and built a robot that will identify, locate and follow a ball. My project uses a rasberry pi to process images from the camera in order to detect and locate balls. The robot has an ultrasonic sensor that measures distances to ensure the robot does not hit the ball or any other obstacles that might be in its way. 
+﻿# Ball Tracking Robot
+I designed, programmed and built a robot that will follow a ball as it rolls on the ground. It uses computer vision techniques to identify the ball. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
      
 
