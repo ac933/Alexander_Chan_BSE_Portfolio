@@ -31,8 +31,8 @@ My second milestone focused on proccessing the video frames to isolate the ball.
 After filtering each video frame for red colors, I noticed that there was a lot of noise, or distortions that looked like static in each camera frame. tolve this problem, I used an image processing technique called erosion. By eliminating some of the area around the edges of objects, the small dots that flickered on the screen were completedly eroded away, while larger objects like the ball only appeared slightly smaller. I then dilated each frame to return objects to their normal size, leaving the video feed without any distortions. I also set and optimized camera settings for saturation, contrast, and brightness to accentuate colors in the video feed and help the computer filter out the best range of colors. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNreoi3gCcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
-hello
 
 # First Milestone
   
