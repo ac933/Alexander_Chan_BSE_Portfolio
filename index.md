@@ -7,8 +7,7 @@ I designed, programmed and built a robot that will identify, locate and follow a
 
 ![IMG_2244](https://user-images.githubusercontent.com/86970028/129973569-bb70e678-0fca-4174-ad06-08004da96ff6.jpg)
      
-<br>
-   
+
 # Final Milestone
 
 Three weeks after the start of my project, I reached my final milestone. Since my second milestone, I have implemented a circle detecting algorithm that I programmed called Hough Circle Transform. The algorithm first detects object edges, or places with a substantial color change, are first detected. For each pixel considered to be an edge, a circles of a set radius range are drawn. If there is a circular object in the camera's view, the circles that are drawn will all intersect at the center of the circular object. In this way, the ball can be detected. Different colored balls can be detected using the color filter I had previously programmed. This enabled my robot to detect balls. 
